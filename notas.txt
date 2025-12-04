@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Mi primera nota - 04/12/2025
 >>>>>>> agregar-fecha
 intento2
+=======
+Mi primera nota - 04/12/2025
+>>>>>>> 9b6d4ff (Agrego fecha a la nota)
